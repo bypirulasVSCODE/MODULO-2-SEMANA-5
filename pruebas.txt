@@ -1,0 +1,22 @@
+Pruebas realizadas
+
+1. Ruta: GET /
+Resultado: Muestra el mensaje "Servidor activo".
+
+2. Ruta: GET /saludo
+Resultado: Muestra el mensaje "Hola comunidad".
+
+3. Ruta: GET /mensaje/Juan
+Resultado: Muestra el mensaje "Hola Juan".
+
+4. Ruta: POST /reporte
+JSON enviado:
+{
+  "mensaje": "Reporte de prueba enviado por la comunidad"
+}
+
+Resultado:
+{
+  "estado": "Reporte recibido",
+  "mensaje": "Reporte de prueba enviado por la comunidad"
+}
