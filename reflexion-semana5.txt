@@ -1,8 +1,0 @@
-Las APIs podrían ayudar mucho a que las comunidades compartan información, reportes y alertas de manera organizada 
-porque permitirían conectar diferentes plataformas y enviar datos de forma rápida y estructurada. 
-Gracias a ellas, una alerta podría llegar a todos los miembros en tiempo real, los reportes podrían 
-clasificarse por tipo y los datos podrían guardarse de manera ordenada para analizarlos después. 
-Yo pienso que esto sería muy útil porque facilitaría la comunicación, mejoraría la respuesta ante problemas
- y ayudaría a que la información llegue de forma más clara y confiable.
-Además, las APIs permiten que la información sea más accesible y fácil de actualizar, lo que favorece la participación de más personas.
-En mi opinión, esto podría fortalecer la organización de las comunidades y hacer que las alertas sean más rápidas y efectivas.

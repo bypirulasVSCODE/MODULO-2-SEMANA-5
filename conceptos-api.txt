@@ -1,2 +1,0 @@
- La ruta POST /reporte no se prueba directamente escribiendo la URL en el navegador, porque POST sirve para enviar datos.
- Puedes probarla con una herramienta como Thunder Client, Postman o desde código JavaScript.
